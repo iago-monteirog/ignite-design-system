@@ -1,5 +1,5 @@
 {
-    "extends": "@ignite-ui/eslint-config",
+    "extends": "@iagomg-ignite-ui/eslint-config",
     "prettier/prettier": [
         "error",
         {
