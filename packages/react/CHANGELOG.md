@@ -1,5 +1,11 @@
 # @iagomg-ignite-ui/react
 
+## 2.0.2
+
+### Patch Changes
+
+- Fix TextInput Props
+
 ## 2.0.1
 
 ### Patch Changes
