@@ -32,5 +32,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
-          TURBO_TOKEN: ${{ Ej3hwckPL9IoShZojJa2xI7k }}
+          TURBO_TOKEN: Ej3hwckPL9IoShZojJa2xI7k
           TURBO_TEAM: iago-monteirog
